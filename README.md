@@ -4,7 +4,7 @@ A Xahau hook builds a box with no recipient name. Testnet.
 
 It can hold coins only, a URIToken only, or both together. They stay on the account until the box is opened. Whoever opens it with their key takes it.
 
-The installed hook hash is F5A0C0BDE49E54E41A1BACEE5F56639C7D3CFA2CFBE0FE117DE09CA6816260AE.
+The installed hook hash C3C5FD66197D82C3B0C0EFF8744E96BA1402D6199E4CC9A3BCD5D392F8705083
 
 ## Files
 
