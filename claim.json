@@ -1,0 +1,26 @@
+{
+  "TransactionType": "Invoke",
+  "Account": "",
+  "Destination": "",
+  "NetworkID": 21338,
+  "HookParameters": [
+    {
+      "HookParameter": {
+        "HookParameterName": "434D44",
+        "HookParameterValue": "434C41494D"
+      }
+    },
+    {
+      "HookParameter": {
+        "HookParameterName": "504B",
+        "HookParameterValue": ""
+      }
+    },
+    {
+      "HookParameter": {
+        "HookParameterName": "534947",
+        "HookParameterValue": ""
+      }
+    }
+  ]
+}

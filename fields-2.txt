@@ -1,0 +1,10 @@
+5643 is the key fingerprint, 32 bytes. It is set when the box is packed.
+504B is the public key, 33 bytes. It is set when the box is claimed.
+534947 is the signature, 64 bytes. It is set when the box is claimed.
+544944 all zeros means the box has no token.
+414D54 all zeros means the box has no coins.
+
+Zeros in the pack example are empty fields, not a finished box. Sent as they are, the hook rejects it: there is no token and no coins.
+The private key is not in the examples.
+21338 is testnet.
+remit.json does not install the hook. The hook is already installed. This transaction only allows it to emit Remit.
